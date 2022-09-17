@@ -1,0 +1,45 @@
+head {
+    color: rgba(37, 36, 36, 0.61);
+    font: size 30px; ;
+    font-weight: normal;
+    overflow: hidden;
+    text-align: center;
+    background: rgb(100, 39, 39);
+    opacity: 70%;
+    float: right;
+}
+h2 {
+    color: rgba(37, 36, 36, 0.61);
+    font: size 30px; ;
+    font-family: 'Josefin Sans';
+    font-weight: normal;
+    overflow: hidden;
+    text-align: center;
+    background: rgb(163, 39, 39);
+    float: right;
+}
+h1 {
+    color: rgba(37, 36, 36, 0.61);
+    font: size 30px; ;
+    font-family: 'Josefin Sans';
+    font-weight: normal;
+    overflow: hidden;
+    text-align: center;
+    background: rgb(163, 39, 39);
+    float: right;
+}
+body {
+    color: rgba(43, 40, 40, 0.61);
+    font: size 14px; ;
+    font-family: 'Josefin Sans';
+    font-weight: normal;
+    overflow: hidden;
+    text-align: center;
+
+}
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
